@@ -1,0 +1,9 @@
+models\Alumno.class
+models\Profesor.class
+com\mycompany\gestorpracticasprueba\PrimaryController.class
+com\mycompany\gestorpracticasprueba\App.class
+models\Actividad.class
+module-info.class
+models\Empresa.class
+Hibernate\HibernateUtil.class
+com\mycompany\gestorpracticasprueba\SecondaryController.class
